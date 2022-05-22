@@ -12,7 +12,10 @@ const TableRow = (props: Props) => {
 
   useEffect(() => {
     if (audio == null) return
-    audio.addEventListener('ended', () => setPlaying(false))
+    audio.addEventListener('ended', () => {
+      setPlaying(false)
+      setAudio(null)
+    })
     audio.play().catch(console.log)
   }, [audio])
 
