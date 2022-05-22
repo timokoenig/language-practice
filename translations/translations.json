@@ -1,477 +1,481 @@
-[
-  {
-    "de": "Hallo",
-    "en": "Hello",
-    "id": "Halo"
-  },
-  {
-    "de": "Auf Wiedersehen",
-    "en": "Goodbye",
-    "id": "Halo"
-  },
-  {
-    "de": "Bitte",
-    "en": "Please",
-    "id": "Halo"
-  },
-  {
-    "de": "",
-    "en": "Thanks you",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "You're welcome",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I am sorry",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Excuse me",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Sir / Ma'am",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Great",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Maybe",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Yes",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "No",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I am ___",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "My name is ___",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "You are?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What is your name?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Nice to meet you",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "How are you?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I need help",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I am looking for ___",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What is that?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Where are you from?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I am from ___",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What is your profession?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Did you watch ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Do you listen to ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Have you been to ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What do you recommend?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Where is ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Where am I?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "How do I get to ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "How far is/to ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Can you show me on a map?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What time is it?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Do you know when the show starts?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Do you know when the place opens?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "left",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "right",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "straight",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "behind",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "turn around",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "near",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "next to",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Airport",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Airplane",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Train station",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Train",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Subway",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Subway station",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Taxi",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Car",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Motorcycle",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Bike",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Boat",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Restaurant",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Hotel",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Department Store",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Grocery",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Drug store",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Market",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What is this?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Do you have ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Can I see?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "How much does it cost?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Do you have anything cheaper?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Where can I find ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Can I order ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Can I have ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Can I see the menu?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Can I have the check?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What is the best?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Where is the best?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What is fun to do here?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "When is the best time to go?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What day is it?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What day is ___ open?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "What day does ___ happen?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Do you speak ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I am learning to speak ___?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Can you repeat that?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Can you speak slower?",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I don't understand",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Help",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Emergency",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Caution",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Danger",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Fire",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Thief",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Doctor",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Police",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "Hospital",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I am hurt",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I feel sick",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I am allergic",
-    "id": ""
-  },
-  {
-    "de": "",
-    "en": "I am lost",
-    "id": ""
-  }
-]
+{
+  "general": [
+    {
+      "de": "Hallo",
+      "en": "Hello",
+      "id": "Halo"
+    },
+    {
+      "de": "Auf Wiedersehen",
+      "en": "Goodbye",
+      "id": "Halo"
+    },
+    {
+      "de": "Bitte",
+      "en": "Please",
+      "id": "Halo"
+    },
+    {
+      "de": "",
+      "en": "Thanks you",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "You're welcome",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I am sorry",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Excuse me",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Sir / Ma'am",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Great",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Maybe",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Yes",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "No",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I am ___",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "My name is ___",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "You are?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What is your name?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Nice to meet you",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "How are you?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I need help",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I am looking for ___",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What is that?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Where are you from?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I am from ___",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What is your profession?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Did you watch ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Do you listen to ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Have you been to ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What do you recommend?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Where is ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Where am I?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "How do I get to ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "How far is/to ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Can you show me on a map?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What time is it?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Do you know when the show starts?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Do you know when the place opens?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "left",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "right",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "straight",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "behind",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "turn around",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "near",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "next to",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Restaurant",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Hotel",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Department Store",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Grocery",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Drug store",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Market",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What is this?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Do you have ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Can I see?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "How much does it cost?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Do you have anything cheaper?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Where can I find ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Can I order ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Can I have ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Can I see the menu?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Can I have the check?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What is the best?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Where is the best?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What is fun to do here?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "When is the best time to go?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What day is it?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What day is ___ open?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "What day does ___ happen?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Do you speak ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I am learning to speak ___?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Can you repeat that?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Can you speak slower?",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I don't understand",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Help",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Emergency",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Caution",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Danger",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Fire",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Thief",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Doctor",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Police",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Hospital",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I am hurt",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I feel sick",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I am allergic",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "I am lost",
+      "id": ""
+    }
+  ],
+  "transportation": [
+    {
+      "de": "",
+      "en": "Airport",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Airplane",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Train station",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Train",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Subway",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Subway station",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Taxi",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Car",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Motorcycle",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Bike",
+      "id": ""
+    },
+    {
+      "de": "",
+      "en": "Boat",
+      "id": ""
+    }
+  ]
+}

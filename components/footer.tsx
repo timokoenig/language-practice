@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <>
       <hr />
-      <Center mt="5">
+      <Center my="5">
         <Text>
           Made with
           <Text as="span" color="red" mx="1">
