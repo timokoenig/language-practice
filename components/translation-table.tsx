@@ -14,7 +14,7 @@ import TableRow from './table-row'
 
 const translations = require('../translations/translations.json') as [Translation]
 
-const LanguageTranslation = () => {
+const LanguageTranslation = (): JSX.Element => {
   const appState = app.use()
   return availableCategories.map(cat => (
     <Box key={cat.key}>
