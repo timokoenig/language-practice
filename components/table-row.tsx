@@ -22,8 +22,10 @@ const TableRow = (props: Props) => {
   return (
     <Td
       textAlign="center"
+      textColor={props.text == '' ? 'red' : undefined}
       _hover={{ backgroundColor: 'gray.100', cursor: 'pointer' }}
       onClick={async () => {
+        if (props.text == '') return
         if (isPlaying) {
           setPlaying(false)
           audio?.pause()
@@ -40,7 +42,7 @@ const TableRow = (props: Props) => {
         }
       }}
     >
-      {props.text}
+      {props.text == '' ? 'MISSING TRANSLATION' : props.text}
       {isPlaying ? ' 🔊' : ''}
     </Td>
   )
