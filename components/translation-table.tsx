@@ -18,8 +18,12 @@ const LanguageTranslation = () => {
       <Table variant="simple" alignContent="center">
         <Thead>
           <Tr>
-            <Th textAlign="center">{languageName(appState.baseLang)}</Th>
-            <Th textAlign="center">{languageName(appState.practiceLang)}</Th>
+            <Th textAlign="center" width="50%">
+              {languageName(appState.baseLang)}
+            </Th>
+            <Th textAlign="center" width="50%">
+              {languageName(appState.practiceLang)}
+            </Th>
           </Tr>
         </Thead>
         <Tbody>
