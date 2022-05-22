@@ -1,17 +1,19 @@
 import { Box, Center, Heading } from '@chakra-ui/react'
 import React from 'react'
+import { useTranslation } from 'react-i18next'
 import { app, setBaseLang, setPracticeLang } from '../state/app'
 import { availableLanguages } from '../utils/languages'
 import Flag from './flag'
 
 const LanguageSelection = () => {
   const appState = app.use()
+  const { t } = useTranslation('common')
   return (
     <>
       <Box mb="5">
         <Center>
           <Heading size="md" fontWeight="regular" mb="2">
-            Select your language
+            {t('select.baselang', { lng: appState.baseLang })}
           </Heading>
         </Center>
         <Center>
@@ -26,10 +28,10 @@ const LanguageSelection = () => {
           ))}
         </Center>
       </Box>
-      <Box mb="5">
+      <Box mb="10">
         <Center>
           <Heading size="md" fontWeight="regular" mb="2">
-            Select the language you want to practice
+            {t('select.practicelang', { lng: appState.baseLang })}
           </Heading>
         </Center>
         <Center>
