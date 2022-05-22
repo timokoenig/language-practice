@@ -1,0 +1,3 @@
+test('Default Test', () => {})
+
+export {}
